@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "首页",
+  "usingComponents": {
+    "chest": "/components/chest/chest",
+    "van-search": "/wxcomponents/vant/dist/search/index"
+  }
+}
